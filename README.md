@@ -16,13 +16,13 @@ I am Data Scientist
 
 ![](https://komarev.com/ghpvc/?username=Sumit2034&color=green)
 
--<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif">
+-<img src="https://media.giphy.com/media/521ZSoqh4HByvyF6MS/giphy.gif">
 
 ## Git Stats
 
 <img src="https://github-readme-stats-sooty-alpha.vercel.app/api?username=Sumit2034&show_icons=true&theme=dracula">
 <img src="https://github-readme-stats-sooty-alpha.vercel.app/api/top-langs?username=Sumit2034&show_icons=true&theme=dracula">
-<img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" width="300px" height="150px">
+<img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" width="300px" height="200px">
 
 ## Projects
 <a href="https://github.com/Sumit2034?tab=repositories" > <img src="https://media.giphy.com/media/QtqPV7cvgrL3qigUPb/giphy.gif" width="200px" height="150px"></a>
