@@ -16,7 +16,7 @@ I am Data Scientist
 
 ![](https://komarev.com/ghpvc/?username=Sumit2034&color=green)
 
--<img src="https://media.giphy.com/media/521ZSoqh4HByvyF6MS/giphy.gif">
+ <img src="https://media.giphy.com/media/521ZSoqh4HByvyF6MS/giphy.gif">
 
 ## Git Stats
 
@@ -44,9 +44,10 @@ I am Data Scientist
 
 <ul style="list-style:none:>
            
-<a href="mailto: sumit2034.cse18@chitkara.edu.in?subject = Feedback&body = Message">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px">
- </a><a href="https://www.linkedin.com/in/sumit-verma-b4916b203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> <a href="https://github.com/Sumit2034"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" height="30px"></a>
+<a href= "mailto: sumit2034.cse18@chitkara.edu.in">Gmail
+    <!--<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px">--></a>
+<a href="https://www.linkedin.com/in/sumit-verma-b4916b203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> 
+<a href="https://github.com/Sumit2034"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" height="30px"></a>
 
 </ul>
 
