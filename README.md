@@ -32,6 +32,7 @@ I am Data Scientist
 <ul>
     <li>Jupyter Notebook</li>
     <li>MySQL workbench</li>
+    <li>PyCharm</li>
     <li>Sublime</li>
     <li>Eclipse</li>
     <li>Python</li>
